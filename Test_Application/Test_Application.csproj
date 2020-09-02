@@ -127,7 +127,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Admin\Web.config" />
-    <None Include="Properties\PublishProfiles\TestApplication20200829021824 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\santestapp-sandbox - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="login.aspx" />
     <Content Include="Scripts\bootstrap.js" />
